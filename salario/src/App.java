@@ -12,7 +12,7 @@ public class App {
         salario = valor * horas;
 
         System.out.println("NUMBER = " + num);
-        System.out.printf("SALARY = U$ %.2f",salario);
+        System.out.printf("SALARY = U$ %.2f\n",salario);
 
     }
 }
